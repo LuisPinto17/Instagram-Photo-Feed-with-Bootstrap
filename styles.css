@@ -1,0 +1,27 @@
+.navbar-right{
+    display: flex;   
+}
+
+.titulo-instagram{
+    display: flex;   
+    align-items:center;
+}
+
+.card-header{
+    display: flex;   
+    align-items:center;
+}
+
+.footer-comment{
+    display: flex;   
+    align-items:center;
+}
+
+.navbar{
+    justify-content: space-around;
+}
+
+.botones-modal{
+    display: flex;    
+    padding-top: 10px; 
+}
